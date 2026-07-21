@@ -1,0 +1,40 @@
+{
+  "workData": [
+    {
+      "image": "/images/work/work-img-1.jpg",
+      "title": "Omnes Marketplace",
+      "client": "PHP, SQL, JavaScript, HTML, CSS",
+      "slug": "omnes-marketplace"
+    },
+    {
+      "image": "/images/work/work-img-2.jpg",
+      "title": "Steamhers Website",
+      "client": "HTML, CSS, JavaScript",
+      "slug": "steamhers-website"
+    },
+    {
+      "image": "/images/work/work-img-3.jpg",
+      "title": "AI Rate My Professor",
+      "client": "Next.js, AI APIs, Database Systems",
+      "slug": "ai-rate-my-professor"
+    },
+    {
+      "image": "/images/work/work-img-4.jpg",
+      "title": "AI Customer Support",
+      "client": "Flask, OpenAI API, Python",
+      "slug": "ai-customer-support"
+    },
+    {
+      "image": "/images/work/work-img-5.jpg",
+      "title": "Finance Tracker",
+      "client": "Python, Flask, SQL",
+      "slug": "finance-tracker"
+    },
+    {
+      "image": "/images/work/work-img-6.jpg",
+      "title": "HoneyForm",
+      "client": "Full-Stack Web Technologies",
+      "slug": "honeyform"
+    }
+  ]
+}

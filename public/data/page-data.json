@@ -1,0 +1,112 @@
+{
+  "contactBar": {
+    "contactItems": [
+      {
+        "type": "email",
+        "label": "ojaswi.rayamajhi@edu.ece.fr",
+        "icon": "/images/icon/mail-icon.svg",
+        "link": "mailto:ojaswi.rayamajhi@edu.ece.fr"
+      },
+      {
+        "type": "phone",
+        "label": "+33 07 58 47 73 30",
+        "icon": "/images/icon/call-icon.svg",
+        "link": "tel:+330758477330"
+      }
+    ],
+    "socialItems": [
+      {
+        "platform": "linkedin",
+        "icon": "/images/icon/linkedin-icon.svg",
+        "link": "https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"
+      },
+      {
+        "platform": "github",
+        "icon": "/images/icon/github-icon.svg",
+        "link": "https://github.com/YOUR-GITHUB-HANDLE"
+      }
+    ]
+  },
+  "educationData": {
+    "education": [
+      {
+        "title": "ECE Paris - Bachelor's in Computer Science (2025 – 2028)",
+        "description": "Coursework in Software Engineering, Artificial Intelligence, Data Structures & Algorithms, and Web Development."
+      },
+      {
+        "title": "St. Xavier's College - A Levels in Pure Science (2021 – 2023)",
+        "description": "Foundational studies in mathematics and the sciences ahead of pursuing Computer Science."
+      },
+      {
+        "title": "Stanford Code in Place - 2024 Graduate",
+        "description": "Completed Stanford's introductory CS program taught by Stanford instructors."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "icon": "/images/home/education-skill/python-icon.svg"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "/images/home/education-skill/javascript-icon.svg"
+      },
+      {
+        "name": "SQL",
+        "icon": "/images/home/education-skill/sql-icon.svg"
+      },
+      {
+        "name": "PHP",
+        "icon": "/images/home/education-skill/php-icon.svg"
+      },
+      {
+        "name": "HTML5",
+        "icon": "/images/home/education-skill/html5-icon.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/images/home/education-skill/css3-icon.svg"
+      },
+      {
+        "name": "Flask",
+        "icon": "/images/home/education-skill/flask-icon.svg"
+      },
+      {
+        "name": "Firebase",
+        "icon": "/images/home/education-skill/firebase-icon.svg"
+      },
+      {
+        "name": "Git",
+        "icon": "/images/home/education-skill/git-icon.svg"
+      },
+      {
+        "name": "GitHub",
+        "icon": "/images/home/education-skill/github-icon.svg"
+      }
+    ]
+  },
+  "contactLinks": {
+    "socialLinks": [
+      {
+        "title": "LinkedIn",
+        "href": "https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"
+      },
+      {
+        "title": "GitHub",
+        "href": "https://github.com/YOUR-GITHUB-HANDLE"
+      }
+    ],
+    "contactInfo": [
+      {
+        "type": "email",
+        "label": "ojaswi.rayamajhi@edu.ece.fr",
+        "link": "mailto:ojaswi.rayamajhi@edu.ece.fr"
+      },
+      {
+        "type": "phone",
+        "label": "+33 07 58 47 73 30",
+        "link": "tel:+330758477330"
+      }
+    ]
+  }
+}
